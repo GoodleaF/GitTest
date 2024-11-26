@@ -15,4 +15,25 @@
 ## 🍔 운영환경
 오늘 점심은 버거킹 🎈🎈  
 
+<div align="center">
+    <img src="./img/shopping.png" style="zoom:76%;" align="center"/>
+</div>  
 
+<br>
+
+- 회원
+    - 로그인
+    - 회원가입
+    - 탈퇴
+    - 수정
+
+- 상품
+    - 등록
+    - 구매
+    - 수정
+    - 조회
+
+- 주문
+    - 조회
+    - 취소
+    - 배송지  
