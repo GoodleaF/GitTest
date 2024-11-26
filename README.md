@@ -37,3 +37,14 @@
     - 조회
     - 취소
     - 배송지  
+
+
+
+-----
+
+# 클래스다이어그램 
+
+
+<div align="center">
+    <img src="./img/classDiagram.png"  align="center"/>
+</div>  
